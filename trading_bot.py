@@ -5,7 +5,7 @@ import pandas as pd
 import time
 
 
-# Replace these with your actual Paper Trading keys
+
 API_KEY = "YOUR OWN API"
 SECRET_KEY = "YOUR KEY"
 BASE_URL = "https://paper-api.alpaca.markets"
